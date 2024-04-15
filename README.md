@@ -19,8 +19,9 @@ Weather Forecastify is a simple weather forecast application built using HTML, C
 Check out the live demo # to see Weather Forecastify in action!
 
 ## Screenshots
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Weather Screenshot-3](https://github.com/DACHU021/Weather-Forecastify/assets/137294508/0b7a87d2-6e7f-4b62-a437-dcc292cd611c)
+![weather Screenshot-2](https://github.com/DACHU021/Weather-Forecastify/assets/137294508/3e11a752-7d00-4f3f-8036-f07dc0386978)
+![Weather Screenshot-1](https://github.com/DACHU021/Weather-Forecastify/assets/137294508/4e1afa0c-bc81-4720-991d-05058536a988)
 
 ## Technologies Used
 - HTML
@@ -28,10 +29,4 @@ Check out the live demo # to see Weather Forecastify in action!
 - JavaScript
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
- 
- # https://dachu021.github.io/Weather-Forecastify/
+- [Darshini T](https://github.com/DACHU021)
