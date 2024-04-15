@@ -9,14 +9,8 @@ Weather Forecastify is a simple weather forecast application built using HTML, C
 - Get forecasts for the next few days
 - User-friendly interface
 
-## How to Use
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Allow location access or enter a location to view the weather forecast.
-4. Enjoy the weather forecast!
-
 ## Live Demo
-Check out the live demo # to see Weather Forecastify in action!
+Check out the live demo # https://dachu021.github.io/Weather-Forecastify/ to see Weather Forecastify in action!
 
 ## Screenshots
 ![Weather Screenshot-3](https://github.com/DACHU021/Weather-Forecastify/assets/137294508/0b7a87d2-6e7f-4b62-a437-dcc292cd611c)
